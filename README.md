@@ -1,1 +1,1 @@
-G
+this is readmefile for my shell tasks and project
